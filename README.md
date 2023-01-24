@@ -1,9 +1,10 @@
 # ARK Configuration Fixer
 
-**My first english tool ain't it?**
+**My first English tool ain't it? P.S. Going to translate some of my tools to English.**
 
 This simple thing is used to fix your old .ini's.
-Tool is made to fix .ini's and not build a new ones with ARK CFG Editor
+Tool is made to fix .ini's and not build a new ones with ARK CFG Editor.
+Tool should be used to administrate your servers easier with removing some of the game graphics.
 
 Use at your own risk, I'm not responsible for your account.
 
