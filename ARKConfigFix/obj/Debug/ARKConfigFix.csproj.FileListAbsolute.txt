@@ -1,0 +1,8 @@
+C:\Users\Ivan\source\repos\ARKConfigFix\ARKConfigFix\bin\Debug\ARKConfigFix.exe.config
+C:\Users\Ivan\source\repos\ARKConfigFix\ARKConfigFix\bin\Debug\ARKConfigFix.exe
+C:\Users\Ivan\source\repos\ARKConfigFix\ARKConfigFix\bin\Debug\ARKConfigFix.pdb
+C:\Users\Ivan\source\repos\ARKConfigFix\ARKConfigFix\obj\Debug\ARKConfigFix.csproj.AssemblyReference.cache
+C:\Users\Ivan\source\repos\ARKConfigFix\ARKConfigFix\obj\Debug\ARKConfigFix.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ivan\source\repos\ARKConfigFix\ARKConfigFix\obj\Debug\ARKConfigFix.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\ARKConfigFix\ARKConfigFix\obj\Debug\ARKConfigFix.exe
+C:\Users\Ivan\source\repos\ARKConfigFix\ARKConfigFix\obj\Debug\ARKConfigFix.pdb

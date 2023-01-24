@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARKConfigFix", "ARKConfigFix\ARKConfigFix.csproj", "{8752EC06-601E-480E-BC7A-76CFDB5DD741}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8752EC06-601E-480E-BC7A-76CFDB5DD741}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8752EC06-601E-480E-BC7A-76CFDB5DD741}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8752EC06-601E-480E-BC7A-76CFDB5DD741}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8752EC06-601E-480E-BC7A-76CFDB5DD741}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {645B5C3F-D38D-4690-AF09-9F5363AC9631}
+	EndGlobalSection
+EndGlobal

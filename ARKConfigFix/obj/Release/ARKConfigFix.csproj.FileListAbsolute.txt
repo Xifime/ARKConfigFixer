@@ -1,0 +1,8 @@
+C:\Users\Ivan\source\repos\ARKConfigFix\ARKConfigFix\bin\Release\ARKConfigFix.exe
+C:\Users\Ivan\source\repos\ARKConfigFix\ARKConfigFix\bin\Release\ARKConfigFix.pdb
+C:\Users\Ivan\source\repos\ARKConfigFix\ARKConfigFix\obj\Release\ARKConfigFix.csproj.AssemblyReference.cache
+C:\Users\Ivan\source\repos\ARKConfigFix\ARKConfigFix\obj\Release\ARKConfigFix.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ivan\source\repos\ARKConfigFix\ARKConfigFix\obj\Release\ARKConfigFix.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\ARKConfigFix\ARKConfigFix\obj\Release\ARKConfigFix.exe
+C:\Users\Ivan\source\repos\ARKConfigFix\ARKConfigFix\obj\Release\ARKConfigFix.pdb
+C:\Users\Ivan\source\repos\ARKConfigFix\ARKConfigFix\bin\Release\Reader.txt
