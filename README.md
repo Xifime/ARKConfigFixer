@@ -8,8 +8,6 @@ Tool should be used to administrate your servers easier with removing some of th
 
 Use at your own risk, I'm not responsible for your account.
 
-Please do not publish without mentioning the author, if you're spreading this tool please send link to this repo.
-
 # Usage:
 
 **UpArrow** - Move in the menu (UP)
